@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="/brainshift" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://avtechscientific.com/sites/default/files/favicon_3.png" type="image/png" />
+<meta content="BrainShift" about="/brainshift" property="dc:title" />
+<link rel="shortlink" href="/node/12" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/brainshift" />
+  <title>BrainShift | Avtech Scientific</title>
+  <link type="text/css" rel="stylesheet" href="http://avtechscientific.com/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://avtechscientific.com/sites/default/files/css/css_Vn_p7xhZmS8yWWx26P0Cc7Tm0GG2K1gLWEoVrhw5xxg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://avtechscientific.com/sites/default/files/css/css_hKCpGfPFbXX1D3NFqQI7gEZK6NR59W4vK71W-2nhS2E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://avtechscientific.com/sites/default/files/css/css_YRHpXvjBz3Y-JcfZyZMep6wR5ZTwuIcP2H_dZv7Ug88.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://avtechscientific.com/sites/default/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://avtechscientific.com/sites/default/files/css/css_XErG3hP_uk4SMKLvhlCCoI2i2JXj73-LF90AtkJgRpk.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://avtechscientific.com/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cti_flex","theme_token":"SCHbubnOEXQnRoDNv98oO6R3j4jo2B4QYeUfeVfi0jo","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/cti_flex\/css\/html-reset.css":1,"sites\/all\/themes\/cti_flex\/css\/cti-flex-style.css":1,"sites\/all\/themes\/cti_flex\/css\/wireframes.css":1,"sites\/all\/themes\/cti_flex\/css\/layout.css":1,"sites\/all\/themes\/cti_flex\/css\/color-schemes.css":1,"sites\/all\/themes\/cti_flex\/css\/local.css":1,"sites\/all\/themes\/cti_flex\/css\/print.css":1,"sites\/all\/themes\/cti_flex\/css\/ie7.css":1,"sites\/all\/themes\/cti_flex\/css\/ie6.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-12 node-type-page section-brainshift fixed-layout full-background blue_bg blue_accent font-family-verdana font-size-14 none" >
+  <div id="skip-link">
+    <a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a>
+  </div>
+    
+<div id="page-wrapper"><div id="page" ">
+
+  <div id="header"><div class="section clearfix">
+
+    
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/" title="Home" rel="home"><span>Avtech Scientific</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">attaining the vision</div>
+              </div><!-- /#name-and-slogan -->
+    
+      <div class="region region-header">
+    <div id="block-search-form" class="block block-search first last odd">
+
+      
+  <div class="content">
+    <form action="/node/12" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input onclick="this.value=&#039;&#039;;" onfocus="this.select()" onblur="this.value=!this.value?&#039;Search&#039;:this.value;" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-YU9owyruWmbOufY7bKPfznualrXHzgDJ1jmYcIA79zo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+                  <a id="main-content"></a>
+                    <h1 class="title" id="page-title">BrainShift</h1>
+                                <div class="tabs"></div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+      
+  <div class="content">
+    <div id="node-12" class="node node-page view-mode-full clearfix" about="/brainshift" typeof="foaf:Document">
+
+  
+      
+  
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div style="text-align:justify">
+In this project we developed an effective numerical simulation of the brain shift process during a craniotomy procedure for robot-assisted awake neurosurgery. Despite the fact that it incorporates many physical effects into the underlying mathematical model, operates on a large simulation domain with high resolution - it is 100 times faster than the real time even if deployed on a regular laptop. This remarkable performance enabled us to determine unknown patient and operation specific model parameters intra-operatively "on the fly" through iterative smart guessing and subsequent calibration of the intermediate results with the stereo camera observations. This way a full picture of brain deformation was generated, which is otherwise not available to the surgeon through direct examination by means of ultra sound, video cameras or MRI. This synthesized information, as common in image guided surgery, is used by the robot and/or physician for navigation, operative planning and identifying the target location. BrainShift application is part of the cognitive and diagnostics module of the robot developed within the framework of the <a href="http://www.active-fp7.eu/index.php/resultsmenu/intraopbs.html">ACTIVE project</a>.
+<p><strong>About ACTIVE project</strong></p>
+<p>The <a href="http://www.active-fp7.eu/">ACTIVE</a> exploits ICT and other engineering methods and technologies for the design and development of an integrated multi-robotic platform for neurosurgery. A light and agile redundant robotic cell with 20 degrees-of-freedom (DoFs) and an advanced processing unit for pre- and intra-operative control will operate both autonomously and cooperatively with surgical staff on the brain. As the patient will not be considered rigidly fixed to the operating table and/or to the robot, the system will push the boundaries of the state of the art in the fields of robotics and control for the accuracy and bandwidth required by the challenging and complex surgical scenario.</p>
+<div>
+<div style="float: left; margin: 1em">
+<a href="/sites/default/files/pictures/skull_hole_brain.png"><img src="/sites/default/files/pictures/thumbnail_skull_hole_brain.png" alt="Skull with an opening" /></a>
+<div class="description">Skull with an opening</div>
+</div>
+<div style="float: left; margin: 1em">
+<a href="/sites/default/files/pictures/brain_with_falx.png"><img src="/sites/default/files/pictures/thumbnail_brain_with_falx.png" alt="Simulated brain deformation" /></a>
+<div class="description">Simulated brain deformation</div>
+</div>
+<div style="float: left; margin: 1em">
+<a href="/sites/default/files/pictures/skull_hole_brain_csf.png"><img src="/sites/default/files/pictures/thumbnail_skull_hole_brain_csf.png" alt="Skull with brain immersed into cerebrospinal fluid" /></a>
+<div class="description">Skull with brain immersed into cerebrospinal fluid</div>
+</div>
+</div>
+</div>
+</div></div></div>  </div>
+
+  
+  
+</div> <!-- /.node -->
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+              </div></div><!-- /.section, /#content -->
+
+          <div id="navigation"><div class="section clearfix">
+
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-218 first"><a href="/">Home</a></li>
+<li class="menu-309"><a href="/services">Services</a></li>
+<li class="menu-310"><a href="/projects">Projects</a></li>
+<li class="menu-311"><a href="/technology">Technology</a></li>
+<li class="menu-312"><a href="/about_us">About Us</a></li>
+<li class="menu-456 last"><a href="/contact">Contact</a></li>
+</ul>
+        
+      </div></div><!-- /.section, /#navigation -->
+    
+    
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+      <div id="postscript-top-wrapper"><div id="postscript-top" class="region clearfix postscript-columns-3"><div class="section">
+              <div class="postscript-column">  <div class="region region-postscript-top-first">
+    <div id="block-block-4" class="block block-block first last odd">
+
+        <h2 class="block-title">Natural sciences</h2>
+    
+  <div class="content">
+    <ul><li>Physics</li>
+<li>Chemistry</li>
+<li>Biology</li>
+<li>Materials science</li>
+<li>Geoscience</li>
+<li>Mechanical engineering</li>
+<li>Electrical engineering</li>
+<li>Optics</li>
+</ul>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+</div>
+                    <div class="postscript-column">  <div class="region region-postscript-top-middle">
+    <div id="block-block-3" class="block block-block first last odd">
+
+        <h2 class="block-title">Industries</h2>
+    
+  <div class="content">
+    <ul><li>Automotive</li>
+<li>Medical devices</li>
+<li>Biopharmaceutical</li>
+<li>Chemicals, oil and gas</li>
+<li>Environmental / Cleantech</li>
+<li>Power generation</li>
+<li>Semiconductors</li>
+<li>Defense</li>
+</ul>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+</div>
+            
+              <div class="postscript-column">  <div class="region region-postscript-top-last">
+    <div id="block-block-5" class="block block-block first last odd">
+
+        <h2 class="block-title">Technologies</h2>
+    
+  <div class="content">
+    <ul><li>Aerodynamic design</li>
+<li>Computer-aided surgery</li>
+<li>Biochemical reactors</li>
+<li>Computational fluid dynamics</li>
+<li>MEMS / Microfluidics</li>
+<li>Fuel cells / Batteries</li>
+<li>Lithography</li>
+<li>Lasers</li>
+</ul>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+</div>
+          </div></div></div><!-- /.section /#postscript, /#postscript-wrapper -->
+  
+      <div id="postscript-bottom-wrapper"><div id="postscript-bottom" class="region clearfix postscript-columns-1"><div class="section">
+              <div class="postscript-column">  <div class="region region-postscript-bottom-first">
+    <div id="block-block-6" class="block block-block first last odd">
+
+        <h2 class="block-title">External resources</h2>
+    
+  <div class="content">
+    <p><a href="http://en.wikipedia.org/wiki/Virtual_prototyping">Virtual Prototyping</a>, Wikipedia.<br /><a href="http://science.energy.gov/~/media/bes/pdf/reports/files/cmsc_rpt.pdf">Accelerating Discovery and Innovation through Simulation-Based Engineering and Science</a>, U.S. Department of Energy.<br /><a href="http://www.nsf.gov/mps/ResearchDirectionsWorkshop2010/RWD-color-FINAL-usletter_2010-07-16.pdf">Inventing a New America through Discovery and Innovation in Science, Engineering, and Medicine</a>, NSF.<br /><a href="http://www.wtec.org/sbes/SBES-GlobalFinalReport.pdf">International Assessment of Research and Development in Simulation-based Engineering and Science</a>, WTEC.<br /><a href="http://www.nist.gov/el/upload/two-pager_.pdf">Enabling Digital Manufacturing</a>, National Center for Manufacturing Sciences.<br /><a href="http://www.nsf.gov/pubs/reports/sbes_final_report.pdf">Simulation-Based Engineering Science</a>, The National Science Foundation, Blue-Ribbon Panel.<br /><a href="http://www.sciencedirect.com/science/article/pii/S0048733398000249">Simulation, learning and R&amp;D performance: Evidence from automotive development</a>, Research Policy.</p>
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+</div>
+                  
+          </div></div></div><!-- /.section /#postscript, /#postscript-wrapper -->
+  
+      <div id="footer"><div class="section">
+        <div class="region region-footer">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <div class="content">
+    Copyright © 2010-2015 Avtech Scientific | Advanced Simulation Library™
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60592032-1', 'auto');
+  ga('send', 'pageview');
+
+</script>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+    </div></div> <!-- /.section, /#footer -->
+  
+</div></div> <!-- /#page, /#page-wrapper -->
+
+  </body>
+</html>
