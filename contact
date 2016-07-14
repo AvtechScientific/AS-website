@@ -58,25 +58,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                   <div id="site-slogan">attaining the vision</div>
               </div><!-- /#name-and-slogan -->
     
-      <div class="region region-header">
-    <div id="block-search-form" class="block block-search first last odd">
-
-      
-  <div class="content">
-    <form action="/contact" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input onclick="this.value=&#039;&#039;;" onfocus="this.select()" onblur="this.value=!this.value?&#039;Search&#039;:this.value;" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-7zNkhh43jYVMf9yxoT4s-VdugvaskTcDFM8tX51Cj_U" />
-<input type="hidden" name="form_id" value="search_block_form" />
-</div>
-</div></form>  </div>
-
-</div><!-- /.block -->
-  </div><!-- /.region -->
-
+    
   </div></div><!-- /.section, /#header -->
 
   <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
@@ -86,22 +68,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                     <h1 class="title" id="page-title">Contact</h1>
                                 <div class="tabs"></div>
                           <div class="region region-content">
-    <div id="block-block-1" class="block block-block first odd">
-
-      
-  <div class="content">
-    <div style="text-align:justify">
-If you are interested in cooperation or partnership you are welcome to send us a short description of your project (of course we can sign an NDA if needed). We will create a prototype model and provide you with pictures, estimate of expected performance, project duration and costs.
-</div>
-<p>Email: <strong>contact AT avtechscientific DOT com</strong></p>
-<p>Avtech Scientific<br />
-P.O. Box 10432<br />
-Modiin Illit, 7183834<br />
-Israel</p>
-  </div>
-
-</div><!-- /.block -->
-<div id="block-system-main" class="block block-system last even">
+    <div id="block-system-main" class="block block-system first last odd">
 
       
   <div class="content">
