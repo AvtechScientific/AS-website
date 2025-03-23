@@ -98,7 +98,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
   <div class="content">
     <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div style="padding-top:20px; padding-bottom:40px; padding-left:15px; padding-right:15px; width:930px; text-align:justify">
-<ul><li>Delivering <strong>full commercial consulting, training and integration services</strong> for our open-source <a href="http://asl.org.il">Advanced Simulation Library</a> (ASL).</li>
+<ul><li>Delivering <strong>full commercial consulting, training and integration services</strong> for our open-source <a href="http://asl.avtechscientific.com">Advanced Simulation Library</a> (ASL).</li>
 <li>Undertaking <strong>contracted development projects</strong> for ASL, ranging from adding a single new feature, to writing entire applications and software suites.</li>
 <li>Providing <strong>Virtual Engineering</strong> solutions: Virtual Prototyping, Virtual Manufacturing, Virtual Testing.</li>
 <li>Development of extraordinarily efficient <strong>numerical 3D models and simulations</strong> for computer-aided engineering, control and optimization of complex medical, physical, chemical, biological systems and product designs.</li>

@@ -98,7 +98,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
   <div class="content">
     <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div style="text-align:justify">
-<p>Avtech Scientific provides variety of services utilizing its open-source <a href="http://asl.org.il">Advanced Simulation Library</a>:</p>
+<p>Avtech Scientific provides variety of services utilizing its open-source <a href="http://asl.avtechscientific.com">Advanced Simulation Library</a>:</p>
 <ul><li><a href="/asl_support">ASL Support and Consulting</a></li>
 <li><a href="/asl_development">Development projects for ASL</a></li>
 <li><a href="/virtual_engineering">Virtual Engineering</a></li>
